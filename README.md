@@ -23,7 +23,7 @@
 </div>
 <div id="developmentStack" align="left">
   <h2> 👩‍🏫 Development Stack</h2>
-  <p>Things that I'm used to work, study and tools that help me everyday. </p>
+  <p>Things that I'm used to work, study and tools that help me everyday. </p><br>
   <table align="center" style="width:100%">
     <tbody>
       <tr>
@@ -62,19 +62,78 @@
     <tbody>
       <tr>
         <td align="center">
-          <img src="https://github.com/ortizfrancielly/ortizfrancielly/blob/ortizfrancielly-patch-1/Images/wohoo-logo.png" width="120">
+          <img src="https://github.com/ortizfrancielly/ortizfrancielly/blob/ortizfrancielly-patch-1/Images/wohoo-logo.png" width="120"><br>
+          <h5>Wohoo!</h5>
         </td>
-        <td align="center">Tools and IDE</td>
-        <td align="center">Others</td>
+        <td align="center">
+          <img src="https://github.com/ortizfrancielly/ortizfrancielly/blob/ortizfrancielly-patch-1/Images/soundbook-logo.png" width="120"><br>
+          <h5>SoundBook</h5>
+        </td>
+        <td align="center">
+          <img src="https://github.com/ortizfrancielly/ortizfrancielly/blob/ortizfrancielly-patch-1/Images/convy-logo.png" width="120"><br>
+          <h5>Convy</h5>
+        </td>
+         <td align="center">
+          <img src="https://github.com/ortizfrancielly/ortizfrancielly/blob/ortizfrancielly-patch-1/Images/clacket-logo.png" width="120"><br>
+          <h5>Clackét!</h5>
+        </td>
       </tr>
       <tr>
         <td align="center">
           <a href="https://github.com/rebeccamello/Wohoo"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="30"></a>
           <a href="https://apps.apple.com/no/app/wohoo/id1572891052"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/App_Store_%28iOS%29.svg/1024px-App_Store_%28iOS%29.svg.png" width="30"></a>
         </td>
+        <td align="center">
+          <a href="https://github.com/NathyPapst/SoundBook"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="30"></a>
+          <a href="https://apps.apple.com/br/app/soundbook/id1588429241"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/App_Store_%28iOS%29.svg/1024px-App_Store_%28iOS%29.svg.png" width="30"></a>
+        </td>
+        <td align="center">
+          <a href="https://github.com/ortizfrancielly/Convy"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="30"></a>
+           <a href="https://apps.apple.com/br/app/convy/id1606941263"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/App_Store_%28iOS%29.svg/1024px-App_Store_%28iOS%29.svg.png" width="30"></a>
+        </td>
+     <td align="center">
+          <a href="https://github.com/ortizfrancielly/Clacket"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="30"></a>
+           <a href="https://apps.apple.com/us/app/clackét/id1578943778"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/App_Store_%28iOS%29.svg/1024px-App_Store_%28iOS%29.svg.png" width="30"></a>
+        </td>
+      </tr>
+      <tr>
+         <td align="center">
+          <img src="https://github.com/ortizfrancielly/ortizfrancielly/blob/ortizfrancielly-patch-1/Images/miaujuda-logo.png" width="120"><br>
+          <h5>Miaujuda</h5>
+        </td>
+         <td align="center">
+          <img src="https://github.com/ortizfrancielly/ortizfrancielly/blob/ortizfrancielly-patch-1/Images/lira-logo.png" width="120"><br>
+          <h5>Lira e Sacerdotisa</h5>
+        </td>
+        <td align="center">
+          <img src="https://github.com/ortizfrancielly/ortizfrancielly/blob/ortizfrancielly-patch-1/Images/doolay-logo.png" width="120"><br>
+          <h5>Doolay</h5>
+        </td>
+         <td align="center">
+          <img src="https://github.com/ortizfrancielly/ortizfrancielly/blob/ortizfrancielly-patch-1/Images/tipografei-logo.png" width="120"><br>
+           <h5>TipoGrafei</h5>
+        </td>
+      </tr>
+      <tr>
+        <td align="center">
+          <a href="https://github.com/VitorGK/Miaujuda"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="30"></a>
+        </td>
+         <td align="center">
+          <a href="https://github.com/VitorGK/MiniChallenge6"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="30"></a>
+        </td>
+         </td>
+         <td align="center">
+          <a href="https://github.com/caikmoraes/doolay-front"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="30"></a>
+        </td>
+     <td align="center">
+          <a href="https://github.com/ortizfrancielly/tipoGrafei-App"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="30"></a>
+        </td>
       </tr>
     </tbody>
   </table>
+
+
+
   
 
 
