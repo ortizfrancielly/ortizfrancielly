@@ -1,9 +1,9 @@
 <div id="titleName" align="center">
-  <h1>Hey, there! Welcome to my GitHub page :)</h1>
+  <h1>Hey, there! Essa é a minha página do GitHub :)</h1>
 </div>
 <div id="description" align="center">
-  <p>I'm 24 years old and I'm currently living in São Paulo, Brazil. </p>
-  <p> Working at <a href="https://developeracademy.mackenzie.br">Apple Developer Academy | Mackenzie</a>.</p>
+  <p>Eu tenho 24 anos e atualmente moro em São Paulo, Brasil. </p>
+  <p>Trabalho na <a href="https://developeracademy.mackenzie.br">Apple Developer Academy | Mackenzie</a>.</p>
 </div>
 <br>
 <div id="header" align="center">
@@ -18,18 +18,18 @@
   </a>
 </div>
 <div id="aboutMe" align="left">
-  <h2> :raising_hand: About Me</h2>
-  <p>Currently studying the seventh semester of Information Systems at Universidade Presbiteriana Mackenzie. I consider myself a professional who seeks to be in constant learning, challenging myself to discover new concepts constantly and exploring this world as crazy as technology.</p>
+  <h2> :raising_hand: Sobre mim</h2>
+  <p>Atualmente estou cursando o sexto semestre de Sistemas de Informação na Universidade Presbiteriana Mackenzie. Me considero uma profissional que está em constante aprendizagem, se desafiando a aprender novos conceitos e explorando esse mundo louco da TI.</p>
 </div>
 <div id="developmentStack" align="left">
-  <h2> 👩‍🏫 Development Stack</h2>
-  <p>Things that I'm used to work, study and tools that help me everyday. </p><br>
+  <h2> 👩‍🏫 Trilha de Desenvolvimento </h2>
+  <p>O que estou acostumada a trabalhar, estudar e ferramentas que utilizo no meu cotidiano.</p><br>
   <table align="center" style="width:100%">
     <tbody>
       <tr>
-        <td align="center">Programming Languages</td>
-        <td align="center">Tools and IDE</td>
-        <td align="center">Others</td>
+        <td align="center">Linguagens de Programação</td>
+        <td align="center">Ferramentas e IDEs</td>
+        <td align="center">Outros</td>
       </tr>
       <tr>
         <td align="center">
@@ -56,25 +56,25 @@
   </table>
 </div>
 <div id="projects" align="left">
-  <h2> 💻 Projects/Apps </h2>
-  <p>Projects and Apps made by me or that I was part of the development.</p>
+  <h2> 💻 Projetos/Apps </h2>
+  <p>Projetos e aplicativos que eu mesma fiz ou que colaborei no desenvolvimento.</p>
   <table align="center" style="width:100%">
     <tbody>
       <tr>
         <td align="center">
-          <img src="https://github.com/ortizfrancielly/ortizfrancielly/blob/ortizfrancielly-patch-1/Images/wohoo-logo.png" width="120"><br>
+          <img src="https://github.com/ortizfrancielly/ortizfrancielly/blob/main/Images/wohoo-logo.png" width="120"><br>
           <h5>Wohoo!</h5>
         </td>
         <td align="center">
-          <img src="https://github.com/ortizfrancielly/ortizfrancielly/blob/ortizfrancielly-patch-1/Images/soundbook-logo.png" width="120"><br>
+          <img src="https://github.com/ortizfrancielly/ortizfrancielly/blob/main/Images/soundbook-logo.png" width="120"><br>
           <h5>SoundBook</h5>
         </td>
         <td align="center">
-          <img src="https://github.com/ortizfrancielly/ortizfrancielly/blob/ortizfrancielly-patch-1/Images/convy-logo.png" width="120"><br>
+          <img src="https://github.com/ortizfrancielly/ortizfrancielly/blob/main/Images/convy-logo.png" width="120"><br>
           <h5>Convy</h5>
         </td>
          <td align="center">
-          <img src="https://github.com/ortizfrancielly/ortizfrancielly/blob/ortizfrancielly-patch-1/Images/clacket-logo.png" width="120"><br>
+          <img src="https://github.com/ortizfrancielly/ortizfrancielly/blob/main/Images/clacket-logo.png" width="120"><br>
           <h5>Clackét!</h5>
         </td>
       </tr>
@@ -98,19 +98,19 @@
       </tr>
       <tr>
          <td align="center">
-          <img src="https://github.com/ortizfrancielly/ortizfrancielly/blob/ortizfrancielly-patch-1/Images/miaujuda-logo.png" width="120"><br>
+          <img src="https://github.com/ortizfrancielly/ortizfrancielly/blob/main/Images/miaujuda-logo.png" width="120"><br>
           <h5>Miaujuda</h5>
         </td>
          <td align="center">
-          <img src="https://github.com/ortizfrancielly/ortizfrancielly/blob/ortizfrancielly-patch-1/Images/lira-logo.png" width="120"><br>
+          <img src="https://github.com/ortizfrancielly/ortizfrancielly/blob/main/Images/lira-logo.png" width="120"><br>
           <h5>Lira e Sacerdotisa</h5>
         </td>
         <td align="center">
-          <img src="https://github.com/ortizfrancielly/ortizfrancielly/blob/ortizfrancielly-patch-1/Images/doolay-logo.png" width="120"><br>
+          <img src="https://github.com/ortizfrancielly/ortizfrancielly/blob/main/Images/doolay-logo.png" width="120"><br>
           <h5>Doolay</h5>
         </td>
          <td align="center">
-          <img src="https://github.com/ortizfrancielly/ortizfrancielly/blob/ortizfrancielly-patch-1/Images/tipografei-logo.png" width="120"><br>
+          <img src="https://github.com/ortizfrancielly/ortizfrancielly/blob/main/Images/tipografei-logo.png" width="120"><br>
            <h5>TipoGrafei</h5>
         </td>
       </tr>
@@ -134,7 +134,7 @@
   <br>
   <br>
   <div id="activity" align="left">
-  <h2>📈 Activity</h2>
+  <h2>📈 Atividade</h2>
   
   <div id="stats" align="center">
   
