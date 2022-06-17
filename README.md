@@ -62,7 +62,7 @@
     <tbody>
       <tr>
         <td align="center">
-          <img src="https://is4-ssl.mzstatic.com/image/thumb/Purple125/v4/e5/f7/d2/e5f7d23a-1454-569e-fb81-ce79f888d88b/AppIcon-1x_U007emarketing-0-7-0-85-220.png/434x0w.webp" width="120">
+          <img src="https://github.com/ortizfrancielly/ortizfrancielly/blob/ortizfrancielly-patch-1/Images/wohoo-logo.png" width="120">
         </td>
         <td align="center">Tools and IDE</td>
         <td align="center">Others</td>
