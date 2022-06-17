@@ -131,7 +131,22 @@
       </tr>
     </tbody>
   </table>
-
+  <br>
+  <br>
+  <div id="activity" align="left">
+  <h2>📈 Activity</h2>
+  
+  <div id="stats" align="center">
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ortizfrancielly&show_icons=true&theme=tokyonight)
+  
+  
+  
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ortizfrancielly&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+  
+  
+  </div>
 
 
   
