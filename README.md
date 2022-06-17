@@ -22,19 +22,57 @@
   <p>Currently studying the seventh semester of Information Systems at Universidade Presbiteriana Mackenzie. I consider myself a professional who seeks to be in constant learning, challenging myself to discover new concepts constantly and exploring this world as crazy as technology.</p>
 </div>
 <div id="developmentStack" align="left">
-  <h2> 💻 Development Stack</h2>
+  <h2> 👩‍🏫 Development Stack</h2>
+  <p>Things that I'm used to work, study and tools that help me everyday. </p>
   <table align="center" style="width:100%">
     <tbody>
       <tr>
-        <td>Programming Languages</td>
-        <td>Tools and IDE</td>
-        <td>Others</td>
+        <td align="center">Programming Languages</td>
+        <td align="center">Tools and IDE</td>
+        <td align="center">Others</td>
       </tr>
       <tr>
-        <td>Clara</td>
-        <td>Fade</td>
-        <td>Work</td>
+        <td align="center">
+          <img src="https://cdn.iconscout.com/icon/free/png-256/swift-21-1175088.png" width="30">
+          <img src="https://toppng.com/uploads/preview/c-programming-icon-c-programming-language-logo-11562945679duaxtn3yq0.png" width="30">
+          <img src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png" width="30">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="30">
+        </td>
+        <td align="center">
+          <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" width="30">
+          <img src="https://wikiimg.tojsiabtv.com/wikipedia/en/0/0c/Xcode_icon.png" width="30">
+          <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="30"><br>
+          <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="30">
+          <img src="https://docs.microsoft.com/pt-br/azure/architecture/data-guide/images/logo_r.svg" width="30">
+          <img src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" width="30">
+        </td>
+        <td align="center">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png?20200221181224" width="30">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/1251px-Blender_logo_no_text.svg.png" width="30">
+          <img src="https://logospng.org/download/figma/figma-2048.png" width="30">
+        </td>
       </tr>
     </tbody>
   </table>
 </div>
+<div id="projects" align="left">
+  <h2> 💻 Projects/Apps </h2>
+  <p>Projects and Apps made by me or that I was part of the development.</p>
+  <table align="center" style="width:100%">
+    <tbody>
+      <tr>
+        <td align="center">
+          <img src="https://is4-ssl.mzstatic.com/image/thumb/Purple125/v4/e5/f7/d2/e5f7d23a-1454-569e-fb81-ce79f888d88b/AppIcon-1x_U007emarketing-0-7-0-85-220.png/434x0w.webp" width="120">
+        </td>
+        <td align="center">Tools and IDE</td>
+        <td align="center">Others</td>
+      </tr>
+      <tr>
+        <td align="center">
+          <a href="https://github.com/rebeccamello/Wohoo"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="30"></a>
+          <a href="https://apps.apple.com/no/app/wohoo/id1572891052"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/App_Store_%28iOS%29.svg/1024px-App_Store_%28iOS%29.svg.png" width="30"></a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+  
